@@ -8,11 +8,11 @@
 
 ###遇到的问题
 
-#####browser-sync cannot get /
+####browser-sync cannot get /
 
 ​	只默认Index.html有效
 
-##### 编写html步骤
+####编写html步骤
 
 1.编写大致
 
@@ -27,6 +27,8 @@
 ##### 移动端应用经验
 
 ##### 动画能力
+
+
 
 ##### 项目经历
 

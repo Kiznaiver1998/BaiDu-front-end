@@ -13,7 +13,9 @@
 			font-size: 24px;
 			font:bold;
 			margin: 30px;
-			transition: all .4s;
+			-webkit-transition: all .4s;
+			-moz-transition: all .4s;
+			-o-transition: all .4s;
 		}
 		.change{
 			font-size: 20px;
@@ -32,10 +34,16 @@
 			background-color: blue;
 			border: none;
 			transition: all .4s;
+			-webkit-transition: all .4s;
+			-o-transition: all .4s;
+			-moz-transition: all .4s;
 		}
 		button:active {
 		    background: rgba(0, 0, 0, 0.1);
 		    animation: ripple .3s linear;
+		    -webkit-animation:ripple .3s linear;
+		    -moz-animation:ripple .3s linear;
+		    -o-animation:ripple .3s linear;
 		}
 	</style>
 </head>
