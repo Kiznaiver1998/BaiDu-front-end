@@ -1,12 +1,16 @@
+####前端复建
+
 - [ ] 慕课网
 - [ ] 锤子首页
 - [ ] 京东
 
 
 
+###遇到的问题
+
 #####browser-sync cannot get /
 
-只默认Index.html有效
+​	只默认Index.html有效
 
 ##### 编写html步骤
 
