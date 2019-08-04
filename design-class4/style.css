@@ -1,0 +1,17 @@
+		.contain {
+            width: 250px;
+            height: 350px;
+            margin: 100px auto;
+            position: relative;
+        }
+        img {
+            position: absolute;
+            transition: all 1s;
+        }
+        .contain:hover img {
+            transform: rotateY(180deg); 
+        }
+        img.one {
+            backface-visibility: hidden;
+            z-index: 9;          
+        }
