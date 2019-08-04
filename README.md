@@ -1,38 +1,39 @@
-####前端复建
+# 百度前端学院设计学院练习
 
-- [ ] 慕课网
-- [ ] 锤子首页
-- [ ] 京东
+### [No.1 - 制作一个简单的菜单动画效果](http://ife.baidu.com/course/detail/id/18)
 
+实现代码：https://github.com/Kiznaiver1998/BaiDu-front-end/tree/master/design-class1
 
+实现效果: https://kiznaiver1998.github.io/BaiDu-front-end/design-class1/
 
-###遇到的问题
+### [No.2 - 初步接触 CSS 2D 变形](http://ife.baidu.com/course/detail/id/29)
 
-####browser-sync cannot get /
+实现代码：https://github.com/Kiznaiver1998/BaiDu-front-end/blob/master/design-class2
 
-​	只默认Index.html有效
+实现效果: https://kiznaiver1998.github.io/BaiDu-front-end/design-class2/
 
-####编写html步骤
+###[No.3 - CSS transition 和 CSS transform 配合制作动画](http://ife.baidu.com/course/detail/id/30)
 
-1.编写大致
+实现代码: https://github.com/Kiznaiver1998/BaiDu-front-end/blob/master/design-class3
 
-2.细节
+实现效果: https://kiznaiver1998.github.io/BaiDu-front-end/design-class3/
 
-3.加动画
+### [No.4 - 3D 空间的卡片翻转动效](http://ife.baidu.com/course/detail/id/31)
 
-4.理解方案
+Loading....
 
-##### 关注性能和工程成本
+### [No.5 - 纯 CSS 制作绕中轴旋转的立方体](http://ife.baidu.com/course/detail/id/32)
 
-##### 移动端应用经验
+loading...
 
-##### 动画能力
+### [No.6 - 利用 CSS animation 制作一个炫酷的 Slider](http://ife.baidu.com/course/detail/id/33)
 
+loading...
 
+### [No.7 - 使用 animate.css 实现一个优雅的登录框](http://ife.baidu.com/course/detail/id/34)
 
-##### 项目经历
+loading...
 
-##### 工程化能力
+### [No.8 - 把 AE 动画转换成 Web 原生动画](http://ife.baidu.com/course/detail/id/35)
 
-
-
+loading...
